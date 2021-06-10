@@ -1,0 +1,55 @@
+/*Shona Start w17019752*/
+/*Style Sheet Document for Northumbria Music Company Website*/
+
+/*Styling for Navigation Bar - START*/
+nav {
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    padding: 15px 20px;
+
+}
+
+li a {
+    display: block;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+}
+/*Styling for Navigation Bar - END*/
+
+/*Styling for Records Table - START*/
+table {
+    border: 1px solid black;
+    display: inline-block;
+    float: left;
+    margin: 20px;
+    padding: 20px 5px 20px 5px;
+    width: 45%;
+}
+
+td {
+    float: left;
+    width: 100%;
+}
+
+th {
+    float: left;
+}
+/*Styling for Records Table - END*/
+
+/*Styling for Footer - START*/
+footer {
+    margin: 1% 10% 0 0;
+    overflow: hidden;
+    text-align: center;
+    width: 100%;
+}
+/*Styling for Footer - END*/
+
+
